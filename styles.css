@@ -1,0 +1,60 @@
+body {
+	background-color: #000;
+	color: #16F3FF;
+	font-family: sans-serif;
+}
+
+
+li {
+	list-style-type: none;
+}
+
+ul li {
+	border: 2px solid #16F3FF;
+	border-radius: 10px;
+	padding: 10px;
+	margin: 5px;
+	background-color: #000;
+	color: #16F3FF;
+}
+
+#user-li {
+	width: 200px;
+	display: inline-grid;
+
+}
+
+#posts-li {
+	width: 400px;
+	display: inline-grid;
+}
+
+#albums-li {
+	width: 270px;
+	display: inline-grid;
+}
+#todos-li {
+	width: 380px;
+	display: inline-grid;
+}
+
+hr {
+	 border: 1px solid #16F3FF;
+	 width: 100%;
+}
+
+#inputField {
+	color: #16F3FF;
+	background-color: #000;
+	border: 2px solid #16F3FF;
+	border-radius: 10px;
+	padding: 5px;
+}
+
+button {
+	color: #16F3FF;
+	background-color: #000;
+	border: 2px solid #16F3FF;
+	border-radius: 10px;
+}
+
